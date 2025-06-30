@@ -67,6 +67,9 @@ TECNOLOGÍAS UTILIZADAS:
 OBSERVACIONES FINALES:
 Este proyecto nos permitió aplicar conocimientos de programación Java, manejo de APIs, creación de interfaces gráficas y estructuras de datos. Se reforzó la lógica para convertir unidades, detectar eventos del mouse y mostrar resultados de forma dinámica. El uso de Scrum y Trello ayudó a organizar eficientemente las tareas del grupo.
 
+Github:
+https://github.com/Rococraft/Grupo-1-Clima-por-Ciudad.git
+
 Integrantes del equipo:
 - Yordan Salazar
 - Zaith Saenz
